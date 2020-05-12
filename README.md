@@ -23,7 +23,7 @@
     Max SDK Version 27 (Android 8.1 Oreo)
     Min SDK Version 21 (Android 5.0 Lollipop)
     
-<h2>Support will also be provided in future !</h2>
+<h2>Support for these versions will be provided in near future !</h2>
 
 
     
