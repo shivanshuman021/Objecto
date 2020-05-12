@@ -13,7 +13,7 @@
   <h2><U><B>Dependencies</B></U></h2>
 <h4>1. Python 3 </h4>
     Visit https://www.python.org/
-<h4>2. PyTorch 1.4.0</h4>  
+<h4>2. PyTorch 1.4.0 and Torchvision library</h4>  
     Visit https://pytorch.org/
 <h4>3. Android-Studio</h4>
     Visit https://developer.android.com/studio
