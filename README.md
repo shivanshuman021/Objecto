@@ -17,7 +17,7 @@ Here is what this app can detect !!!
 
 <div>
 <center>
-<video width="110" height="350" src="images/objecto.mp4" type="video/mp4" controls>
+<video width="200" height="350" src="images/objecto.mp4" type="video/mp4" controls>
 </video>
 </center>
 </div>
