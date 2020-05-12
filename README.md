@@ -12,7 +12,9 @@ Android app for Object detection built using PyTorch
     Visit https://developer.android.com/studio
 
 
-<h3>App currently supports Max SDK Version 27 and MinSDK Version 21 (i.e. Android Version 5.0 - 8.1 )</h3>
+<h3>App currently supports:</h3> 
+    Max SDK Version 27 (Android 8.1 Oreo)
+    Min SDK Version 21 (Android 5.0 Lollipop)
     
 Here is what this app can detect !!!
 
