@@ -23,6 +23,10 @@
     Max SDK Version 27 (Android 8.1 Oreo)
     Min SDK Version 21 (Android 5.0 Lollipop)
     
+<h2>Support will also be provided in future !</h2>
+
+
+    
 Here is what this app can detect !!!
 
 <h4>Made by <B>Anshuman Mishra</B></h4>
