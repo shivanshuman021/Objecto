@@ -2,7 +2,7 @@
 Android app for Object detection built using PyTorch
 
 <h3><I>The Open-source android app that uses ResNet Deep Learning Model (using PyTorch as backend FrameWork)</I></h3>
-<center><img src="own.png" style="width:300px;height:450px;"></center>
+<center><img src="own.jpeg" style="width:300px;height:450px;"></center>
   <h2><U><B>Dependencies</B></U></h2>
 <h4>1. Python 3 </h4>
     Visit https://www.python.org/
