@@ -31,7 +31,7 @@ Here is what this app can detect !!!
 
 <h4>Made by <B>Anshuman Mishra</B></h4>
 <div>
-<center><img src="images/own.jpeg" style="width:300px;height:500px;"></center>
+<center><img src="images/own.jpeg" style="width:300px;height:550px;"></center>
 </div>
 
 
